@@ -10,5 +10,3 @@ let x=[];
 let y=[];
 let z=y;
 console.warn(x==y);  // false
-
-
